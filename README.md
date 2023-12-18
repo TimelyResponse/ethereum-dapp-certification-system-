@@ -1,4 +1,4 @@
-# Trust certification system decentralized application
+# certification system dapp
 
 <img width="auto" align="left" src="./tcs_logo.jpg" />
 
